@@ -1,0 +1,42 @@
+
+/*Styling the code  1st Heading*/
+body{
+  background-color: rgb(185, 151, 151);
+}
+h1{
+     
+      border: 1px solid rgb(213, 221, 213);
+      text-align: center;
+      background-color: rgba(188, 194, 188, 0.678);
+      border-width: 50%;
+      margin-left: 20px;
+      font-family: 'Times New Roman', Times, serif;
+      align-items: center;
+}
+.fst{
+  border: 1px solid rgb(0, 0, 0);
+  margin-left: 20px;
+  display: flex;
+  margin-block-end: 10px;
+  background-color: rgba(209, 208, 211, 0.678);
+  padding:5px;
+
+}
+.sec{
+  border: 1px solid rgb(247, 243, 243);
+  margin-left: 50%;
+  display: flex;
+ margin-block-end: 10px;
+ padding:5px;
+ background-color: rgb(241, 191, 149);
+}
+.pic{
+  display: flex;
+  padding:5px;
+  width: 50px;
+  max-width: 50px;
+  border: 1px solid rgb(235, 192, 192);
+  background-color: rgba(218, 186, 186, 0.678);
+  margin-left: 15%;
+}
+
